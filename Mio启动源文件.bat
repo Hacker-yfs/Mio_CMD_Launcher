@@ -41,6 +41,7 @@ pause > nul
 :stop
 echo 网络不通畅，已自动关闭Mio
 pause
+exit
 ::网络连通
 :start
 echo 网络通畅，10秒后自动启动澪度Mio....
